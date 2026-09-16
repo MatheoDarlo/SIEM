@@ -1,0 +1,6 @@
+Sep 17 08:01:12 server sshd[1023]: Failed password for admin from 192.168.1.50 port 51234 ssh2
+Sep 17 08:01:15 server sshd[1024]: Failed password for admin from 192.168.1.50 port 51235 ssh2
+Sep 17 08:01:20 server sshd[1025]: Failed password for admin from 192.168.1.50 port 51236 ssh2
+Sep 17 08:01:45 server sshd[1026]: Accepted password for matheo from 192.168.1.20 port 51240 ssh2
+Sep 17 08:02:03 server sshd[1027]: Failed password for root from 10.0.0.5 port 44210 ssh2
+Sep 17 08:05:11 server sshd[1028]: Failed password for admin from 192.168.1.50 port 51260 ssh2
